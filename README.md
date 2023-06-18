@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the Project
+This is a kind of To Do List App.
+Features:
+1. You can add item in the list.
+2. You can check that item if it is added to the bag.
+3. You can delete item from the list.
+4. You can Sort the list by 3 ways.
+a. Sort by input
+b. Sort by description
+c. Sort by packed status
+
 ## Available Scripts
 
 In the project directory, you can run:
